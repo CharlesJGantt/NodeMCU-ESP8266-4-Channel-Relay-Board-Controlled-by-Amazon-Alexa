@@ -4,4 +4,6 @@ The five additional files: CallbackFunction.h, Switch.cpp, Switch.h, UpnpBroadca
 
 For more information on how to install the requsite ESP8266 libraries and boards to Arduino, please read my documentation which is part of my LinkNodeR4 and Amazon Alexa tutorial article which can be found at: http://themakersworkbench.com/tutorial/how-use-amazon-alexa-control-linknode-r4-esp8266-4-channel-relay-board
 
+For links to the components used in this project, open the Project_BOM zip file for an excel, open doc, and pdf of the bill of materials and links to the products on Amazon.com. 
+
 Thanks for checking out my project. If you have improvements, or changes that should be made, please feel free to fork or leave a message and I will add a new branch. 
